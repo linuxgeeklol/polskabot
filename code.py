@@ -82,4 +82,4 @@ async def wotispolandball(ctx):
     await bot.say("https://polandball.cc/wp-content/uploads/2014/04/mxzUpoS.png")
 
 
-bot.run("Mzk3NjA4NDM0NDk0ODY1NDE4.DVRnIg.zm5FhlsqXTdasjDT_pZBIoJAxRo")
+bot.run(key)
